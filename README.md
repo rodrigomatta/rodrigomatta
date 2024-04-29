@@ -8,9 +8,9 @@
 
 ## Linguagens mais usadas
 
+<hr>
 <div align="center">
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW80bjRpaTZ6emhjcXNyN3oycjMxanB4Z2Uxc21vYjM0emo3Y3oxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wl4qpVTu3se15zv6iq/giphy.gif" alt="Giphy">
+  <img height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,6 +28,6 @@ Você pode me encontrar em:
 
 <div align="center">
 <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/washingtonP1974.README.md" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/rodrigomatta.README.md" alt="visitor badge"/>
 </div>
 
