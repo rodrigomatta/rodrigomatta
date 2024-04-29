@@ -22,3 +22,4 @@ Você pode me encontrar em:
 <a href="https://www.linkedin.com/in/rodrigoomata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/rodrigomatta/rodrigomatta/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rodrigomatta/rodrigomatta/blob/output/github-contribution-grid-snake-dark.svg)
