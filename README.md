@@ -32,7 +32,6 @@ Você pode me encontrar em:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rodrigomatta/rodrigomatta/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Visitantes
 <div>
 <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/rodrigomatta.README.md" alt="visitor badge"/>
