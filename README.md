@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomatta&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 
-## Habilidades
+## Linguagens mais usadas
 
 <div style="display: inline_block"><br>
   <span style="margin-right: 10px;"><img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></span>
