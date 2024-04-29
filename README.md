@@ -9,8 +9,8 @@
 ## Linguagens mais usadas
 
 <hr>
-<div align="center">
-  <img height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
+<div>
+  <img height="150" style="float: left;" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,8 @@ Você pode me encontrar em:
 <a href="mailto:rodrigomata2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigoomata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<div align="center">
+## Visitantes
+<div>
 <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/rodrigomatta.README.md" alt="visitor badge"/>
 </div>
