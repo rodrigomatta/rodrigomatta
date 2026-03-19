@@ -19,13 +19,6 @@
   <span style="margin-right: 10px;"><img align="center" alt="Rod-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></span>
 </div>
 
-## Contato
-
-Você pode me encontrar em:
-
-<a href="mailto:rodrigomata2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigoomata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigomatta/rodrigomatta/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigomatta/rodrigomatta/output/github-contribution-grid-snake.svg">
@@ -36,4 +29,3 @@ Você pode me encontrar em:
 <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/rodrigomatta.README.md" alt="visitor badge"/>
 </div>
-
