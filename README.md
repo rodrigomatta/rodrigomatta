@@ -11,6 +11,7 @@
 [![Pinned Repo](https://img.shields.io/badge/Pinned-s2.cpp-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/rodrigomatta/s2.cpp)
 [![Organization](https://img.shields.io/badge/Org-romara--labs-6e40c9?style=flat-square&logo=github)](https://github.com/romara-labs)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-rodrigomt-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/rodrigomt)
+[![HF Org](https://img.shields.io/badge/HF_Org-romara--labs-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/romara-labs)
 
 </div>
 
