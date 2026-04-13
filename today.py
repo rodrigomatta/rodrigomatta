@@ -1,9 +1,4 @@
-"""Copyright 2026 Vikbg.
-Modified by rodrigomatta.
-
-SPDX-License-Identifier: Apache-2.0
-Keep the attribution notice from the repository NOTICE file when redistributing.
-"""
+"""Profile SVG card generator for rodrigomatta."""
 
 import datetime
 import hashlib
