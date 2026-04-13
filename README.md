@@ -1,23 +1,9 @@
-# Olá, eu sou Rodrigo Mata! 👋
-
-<div align="center">
-  <a href="https://github.com/rodrigomatta/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomatta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomatta&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-## Linguagens mais usadas
-
-<hr>
-<div>
-  <img height="150" style="float: left;" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
-</div>
-
-<div style="display: inline_block"><br>
-  <span style="margin-right: 10px;"><img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></span>
-  <span style="margin-right: 10px;"><img align="center" alt="Rod-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></span>
-  <span style="margin-right: 10px;"><img align="center" alt="Rod-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></span>
-</div>
+<a href="https://github.com/rodrigomatta">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <img alt="rodrigomatta's GitHub Profile README" src="./light_mode.svg">
+  </picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigomatta/rodrigomatta/output/github-contribution-grid-snake-dark.svg">
@@ -25,7 +11,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rodrigomatta/rodrigomatta/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div>
-<br/>
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/rodrigomatta.README.md" alt="visitor badge"/>
 </div>
